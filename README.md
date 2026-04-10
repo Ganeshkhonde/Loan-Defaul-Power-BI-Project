@@ -1,7 +1,5 @@
 # Loan Default & Risk Analysis Dashboard
 
-### Dashboard Link : (Add your Power BI Service link here)
-
 ## Problem Statement
 
 This dashboard helps financial institutions understand loan distribution, customer demographics, and default risks. It provides insights into borrower behavior, helping identify high-risk segments and improve decision-making for loan approvals.
